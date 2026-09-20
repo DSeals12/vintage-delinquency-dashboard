@@ -99,3 +99,5 @@ jupyter notebook notebooks/vintage_analysis.ipynb
 - Net loss modeling with charge-off and recovery timing
 - Time-series visualization of multi-cohort portfolio behavior
 - SQL-equivalent logic implemented in Pandas for auditability
+
+📊 [View rendered notebook with charts](https://nbviewer.org/github/DSeals12/vintage-delinquency-dashboard/blob/main/notebooks/vintage_analysis.ipynb)
