@@ -1,6 +1,6 @@
 # Vintage Delinquency & Net Loss Rate Dashboard
 
-**Author:** Denzel C. Seals | Senior Data Analyst  
+**Author:** Denzel C. Seals | Senior Analyst - Corporate Development
 **Domain:** Consumer Credit / BNPL Portfolio Analytics  
 **Stack:** Python · SQL · Pandas · Plotly · Seaborn  
 
