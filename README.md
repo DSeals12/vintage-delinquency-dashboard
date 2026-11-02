@@ -58,7 +58,7 @@ vintage-delinquency-dashboard/
 
 ```bash
 # 1. Clone and install dependencies
-git clone https://github.com/yourhandle/vintage-delinquency-dashboard.git
+git clone https://github.com/DSeals12/vintage-delinquency-dashboard.git
 cd vintage-delinquency-dashboard
 pip install -r requirements.txt
 
